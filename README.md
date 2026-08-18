@@ -244,7 +244,7 @@ STATUS: LEARNING_AND_BUILDING...
 <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/joao-vitor-oliveira-lima-26b53a283/">
+<a href="https://www.linkedin.com/in/joão-vitor-oliveira-lima-26b53a283/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
