@@ -253,7 +253,7 @@ Em breve:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+<img src="https://raw.githubusercontent.com/VitorLimaxxy/VitorLimaxxy/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
