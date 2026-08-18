@@ -102,23 +102,22 @@ LEARNING
 
 <td width="50%" valign="top">
 
-### 🗄️ SQL Database Project
+### 🛒 Sistema de Vendas — SQL Server
 
-Projeto de banco de dados relacional desenvolvido para praticar modelagem e SQL.
+Banco de dados relacional desenvolvido em **SQL Server**, simulando um sistema de vendas completo.
 
-**Estudos**
+**Principais recursos:**
+- Modelagem de banco de dados e DER
+- Primary Keys e Foreign Keys
+- Consultas com JOINs e funções de agregação
+- Views para relatórios
+- Stored Procedures parametrizadas
+- Triggers para controle de estoque
+- Índices para otimização de consultas
 
-`SQL` `MySQL` `Modelagem`
+**Tecnologias:** `SQL Server` `T-SQL` `Git` `GitHub`
 
-**Conceitos**
-
-* Primary Key
-* Foreign Key
-* Relacionamentos
-* NOT NULL
-* Normalização
-* JOINs
-* CRUD
+🔗 [Ver projeto completo](https://github.com/VitorLimaxxy/sistema-vendas-sql)
 
 <br>
 
