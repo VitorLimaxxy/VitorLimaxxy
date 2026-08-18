@@ -265,15 +265,15 @@ STATUS: LEARNING_AND_BUILDING...
 
 <div align="center">
 
-<a href="https://github.com/VitorLimaxxyto">
+<a href="https://github.com/VitorLimaxxy">
 <img src="https://img.shields.io/badge/GitHub-VitorLimaxxyto-0D1117?style=for-the-badge&logo=github&logoColor=7DF9FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/joão-vitor-oliveira-lima-26b53a283/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:vitorlimacops@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
@@ -289,9 +289,9 @@ STATUS: LEARNING_AND_BUILDING...
 ║              SYSTEM STATUS :: ONLINE                     ║
 ║                                                          ║
 ║   SQL / DATABASE       █████████████████░░   LEARNING    ║
-║   PROGRAMMING          ████████████░░░░░░   LEARNING    ║
-║   GITHUB               ████████████████░░   ACTIVE      ║
-║   PORTFOLIO            █████████████░░░░░   BUILDING    ║
+║   PROGRAMMING          ████████████░░░░░░   LEARNING     ║
+║   GITHUB               ████████████████░░   ACTIVE       ║
+║   PORTFOLIO            █████████████░░░░░   BUILDING     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
