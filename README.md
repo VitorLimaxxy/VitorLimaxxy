@@ -1,42 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0F4C5C&height=230&section=header&text=JO%C3%83O%20VITOR&fontSize=52&fontColor=7DF9FF&animation=fadeIn&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20SQL%20%7C%20DATABASES&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:00B4D8&height=220&section=header&text=JO%C3%83O%20VITOR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20SQL%20%7C%20DATABASES&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7DF9FF&center=true&vCenter=true&width=850&lines=Initializing+system...;System+Online+%E2%9C%93;Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Information+Systems+Student;SQL+%7C+Databases+%7C+Data;Building+my+career+in+Technology." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=System+Online...;Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Information+Systems+Student;SQL+%7C+Databases+%7C+Power+BI;Building+my+career+in+Technology." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=VitorLimaxxyto&label=PROFILE%20VIEWS&color=0F4C5C&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/VitorLimaxxy">
+<img src="https://img.shields.io/badge/GitHub-VitorLimaxxy-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=VitorLimaxxy&label=PROFILE%20VIEWS&color=0D1117&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## `> about_me.exe`
+## `> whoami`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                      JOÃO VITOR                             │
+│                         JOÃO VITOR                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  🎓  Information Systems Student                            │
-│  🗄️  Focus: SQL & Databases                                │
-│  💻  Currently building practical projects                  │
-│  🚀  Looking for my first opportunity in IT                 │
-│  📚  Always learning and improving                          │
+│  🎓  Sistemas de Informação                                │
+│  🗄️  Foco: SQL & Banco de Dados                            │
+│  📊  Interesse: Dados & Business Intelligence              │
+│  💻  Atualmente: Construindo projetos práticos             │
+│  🚀  Objetivo: Primeiro estágio em Tecnologia              │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Olá! 👋 Sou **João Vitor**, estudante de **Sistemas de Informação** e atualmente estou construindo minha carreira na área de Tecnologia.
+Olá! 👋 Sou **João Vitor**, estudante de **Sistemas de Informação**, atualmente construindo minha carreira na área de Tecnologia.
 
-Meu principal foco de estudos é **SQL, Banco de Dados e desenvolvimento de sistemas**, buscando transformar conhecimento teórico em projetos práticos.
+Meu principal foco é **SQL, Banco de Dados e análise de dados**, buscando transformar o que estudo na faculdade em projetos práticos para meu portfólio.
 
-Atualmente estou desenvolvendo meu portfólio, estudando modelagem de dados, consultas SQL e conceitos importantes de bancos relacionais.
+Também venho desenvolvendo conhecimentos em **Power BI, Excel, Git e GitHub**, além de continuar estudando programação e desenvolvimento de sistemas.
 
-🎯 **Objetivo atual:** conquistar minha primeira oportunidade de estágio na área de TI, especialmente em **Banco de Dados / SQL**.
+🎯 **Meu objetivo atual é conquistar meu primeiro estágio na área de TI**, especialmente em posições relacionadas a **Banco de Dados, SQL, Dados ou Business Intelligence**.
 
 ---
 
@@ -44,21 +48,25 @@ Atualmente estou desenvolvendo meu portfólio, estudando modelagem de dados, con
 
 <div align="center">
 
-### 🗄️ Databases
+### 🗄️ SQL & Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
-
-<br><br>
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript&theme=dark" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
 
 <br><br>
 
-### 🛠️ Tools
+### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+
+<br><br>
+
+### 🛠️ Development & Version Control
+
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </div>
 
@@ -66,14 +74,22 @@ Atualmente estou desenvolvendo meu portfólio, estudando modelagem de dados, con
 
 ## `> skills --status`
 
-<div align="center">
+```text
+DATABASE
+████████████████░░░░  SQL & Relational Databases
 
-![SQL](https://img.shields.io/badge/SQL-Learning-7DF9FF?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Database](https://img.shields.io/badge/Database-Learning-7DF9FF?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-7DF9FF?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-7DF9FF?style=for-the-badge\&logo=github\&logoColor=white)
+DATA ANALYSIS
+██████████████░░░░░░  Excel & Power BI
 
-</div>
+VERSION CONTROL
+████████████████░░░░  Git & GitHub
+
+PROGRAMMING
+███████████░░░░░░░░░  Developing
+
+LEARNING
+██████████████████░░  Continuous
+```
 
 ---
 
@@ -86,98 +102,55 @@ Atualmente estou desenvolvendo meu portfólio, estudando modelagem de dados, con
 
 <td width="50%" valign="top">
 
-### 🗄️ Database Management
+### 🗄️ SQL Database Project
 
 Projeto de banco de dados relacional desenvolvido para praticar modelagem e SQL.
 
-**Tecnologias**
+**Estudos**
 
-`SQL` `MySQL`
+`SQL` `MySQL` `Modelagem`
 
 **Conceitos**
 
-* Modelagem ER
-* Primary Keys
-* Foreign Keys
+* Primary Key
+* Foreign Key
 * Relacionamentos
+* NOT NULL
 * Normalização
-* CRUD
 * JOINs
-
-<a href="https://github.com/VitorLimaxxyto">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7DF9FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Sales Database
-
-Banco de dados para análise de vendas e geração de informações utilizando consultas SQL.
-
-**Tecnologias**
-
-`SQL` `MySQL`
-
-**Conceitos**
-
-* SELECT
-* WHERE
-* GROUP BY
-* ORDER BY
-* JOIN
-* Subqueries
-* Aggregations
-
-<a href="https://github.com/VitorLimaxxyto">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7DF9FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📦 Inventory System
-
-Sistema de controle de estoque para praticar operações em banco de dados.
-
-**Tecnologias**
-
-`SQL` `Python`
-
-**Conceitos**
-
 * CRUD
-* Produtos
-* Estoque
-* Fornecedores
-* Consultas
-* Relatórios
 
-<a href="https://github.com/VitorLimaxxyto">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7DF9FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<br>
+
+<a href="https://github.com/VitorLimaxxy">
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 More Projects
+### 📊 Data Analysis
 
-Novos projetos estão sendo desenvolvidos para fortalecer meu portfólio.
+Projeto focado em análise e interpretação de dados utilizando SQL, Excel e Power BI.
 
-```text
-STATUS :: IN DEVELOPMENT
-```
+**Tecnologias**
 
-**Coming soon**
+`SQL` `Excel` `Power BI`
 
-`SQL` `Backend` `APIs` `Data`
+**Conceitos**
+
+* Tratamento de dados
+* Consultas SQL
+* KPIs
+* Dashboards
+* Análise de indicadores
+
+<br>
+
+<a href="https://github.com/VitorLimaxxy">
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
 
 </td>
 
@@ -186,7 +159,7 @@ STATUS :: IN DEVELOPMENT
 
 </div>
 
-> 💡 **Substitua os links dos cards acima pelos links dos seus repositórios assim que os projetos estiverem prontos.**
+> **Projetos serão adicionados aqui conforme forem concluídos.**
 
 ---
 
@@ -195,16 +168,16 @@ STATUS :: IN DEVELOPMENT
 ```bash
 $ ./current_goals.sh
 
-[✓] Start Information Systems degree
-[✓] Learn SQL fundamentals
-[✓] Study relational databases
-[~] Improve advanced SQL
-[~] Practice database modeling
-[~] Build SQL portfolio projects
-[~] Learn backend development
-[~] Improve Git & GitHub
-[ ] Build professional portfolio
-[ ] Get first IT internship
+[✓] Iniciar graduação em Sistemas de Informação
+[✓] Aprender fundamentos de SQL
+[✓] Estudar bancos relacionais
+[~] Aprimorar SQL avançado
+[~] Praticar modelagem de dados
+[~] Desenvolver projetos para portfólio
+[~] Aprender Power BI
+[~] Melhorar Excel
+[~] Aprimorar Git & GitHub
+[ ] Conseguir primeiro estágio em TI
 
 STATUS: LEARNING_AND_BUILDING...
 ```
@@ -215,17 +188,19 @@ STATUS: LEARNING_AND_BUILDING...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorLimaxxyto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VitorLimaxxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLimaxxyto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLimaxxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180"/>
 
 </div>
 
-<br>
+---
+
+## `> github --streak`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VitorLimaxxyto&theme=tokyonight&hide_border=true&background=0D1117&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF" />
+<img src="https://streak-stats.demolab.com?user=VitorLimaxxy&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%"/>
 
 </div>
 
@@ -235,7 +210,7 @@ STATUS: LEARNING_AND_BUILDING...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorLimaxxyto&bg_color=0D1117&color=7DF9FF&line=7DF9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorLimaxxy&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -245,7 +220,7 @@ STATUS: LEARNING_AND_BUILDING...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VitorLimaxxyto&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VitorLimaxxy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
 
 </div>
 
@@ -255,7 +230,7 @@ STATUS: LEARNING_AND_BUILDING...
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VitorLimaxxyto/VitorLimaxxyto/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/VitorLimaxxy/VitorLimaxxy/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
@@ -266,15 +241,11 @@ STATUS: LEARNING_AND_BUILDING...
 <div align="center">
 
 <a href="https://github.com/VitorLimaxxy">
-<img src="https://img.shields.io/badge/GitHub-VitorLimaxxyto-0D1117?style=for-the-badge&logo=github&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/joão-vitor-oliveira-lima-26b53a283/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:vitorlimacops@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="https://www.linkedin.com/in/joao-vitor-oliveira-lima-26b53a283/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
@@ -286,19 +257,19 @@ STATUS: LEARNING_AND_BUILDING...
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║              SYSTEM STATUS :: ONLINE                     ║
+║                 SYSTEM STATUS :: ONLINE                  ║
 ║                                                          ║
-║   SQL / DATABASE       █████████████████░░   LEARNING    ║
-║   PROGRAMMING          ████████████░░░░░░   LEARNING     ║
-║   GITHUB               ████████████████░░   ACTIVE       ║
-║   PORTFOLIO            █████████████░░░░░   BUILDING     ║
+║   SQL / DATABASE       ████████████████░░░░   LEARNING   ║
+║   DATA ANALYSIS       ██████████████░░░░░░   LEARNING   ║
+║   GITHUB              █████████████████░░░   ACTIVE     ║
+║   PORTFOLIO           ███████████████░░░░░   BUILDING   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=7DF9FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Learning+today.+Building+tomorrow.+%F0%9F%9A%80" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Learning+today.+Building+tomorrow.+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br><br>
 
@@ -306,6 +277,6 @@ STATUS: LEARNING_AND_BUILDING...
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C5C,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:102A43,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
