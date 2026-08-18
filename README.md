@@ -38,7 +38,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Eu sou **Vitor Lima**, estudante de **Sistemas de Informação** e atualmente focado em construir minha carreira na área de **Banco de Dados e SQL**.
+Olá! Eu sou **João Vitor**, estudante de **Sistemas de Informação** e atualmente focado em construir minha carreira na área de **Banco de Dados e SQL**.
 
 Gosto de transformar problemas em soluções organizadas, trabalhar com dados e entender como sistemas funcionam por trás das interfaces.
 
